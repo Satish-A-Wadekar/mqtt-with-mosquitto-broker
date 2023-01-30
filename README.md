@@ -63,7 +63,7 @@ first run main.py to start the mosquitto server
   python3 main.py
 ```
 
-if you face any error while server starting, just kill all previous mosquitto servers locally by running following command
+if you face any error while server starting, just kill all previously running mosquitto servers at your local. to do this just run following command
 ```bash
 killall mosquitto
 ```
