@@ -16,7 +16,7 @@ This is a very quick & simple boilerplate where you can develop python app with 
 #### You need to install Mosquitto broker server on your machine to run this project locally, to install Mosquitto you can check this link https://mosquitto.org/download/. 
 Mosquitto can be installed from the homebrew project
 
-```http
+```
   brew install mosquitto
 ```
 
