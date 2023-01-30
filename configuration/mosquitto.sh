@@ -1,19 +1,15 @@
-'''to run the shell script, uncomment & run bellow command in terminal'''
-# sh your_file_name_with_full_path.sh
-
-###############################################################################################################
-
 '''to start the mosquitto server on MAC''' 
-    '''if you wants to mosquitto start server with "Default settings", uncomment & run below command'''
+    '''if you wants to start mosquitto server with "Default settings", uncomment & run below command'''
     #/usr/local/sbin/mosquitto -c /usr/local/etc/mosquitto/mosquitto.conf
 
-    '''if you wants to mosquitto start server with your own "Custome settings", uncomment & run below command'''
+    '''if you wants to start mosquitto server with your own "Custome settings", uncomment & run below command'''
     #/usr/local/sbin/mosquitto -c your_file_name_with_full_path
 
 '''to stop mosquitto server, uncomment & run below line'''
 #killall mosquitto
 
 ###############################################################################################################
+
 '''
 password file: to add authentication to access mosquitto server, you need to create password file where you need to add username & passwords with below mentione format
 "username:password"
