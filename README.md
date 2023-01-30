@@ -35,7 +35,7 @@ Activate the virtual environment
 Install all dependencies 
 
 ```
-  python3 install -r requirements.txt
+  pip install -r requirements.txt
 ```
 
 ## Environment Variables
@@ -62,6 +62,13 @@ first run main.py to start the mosquitto server
 ```bash
   python3 main.py
 ```
+
+if you face any error while server starting, just kill all previous mosquitto servers locally by running following command
+```bash
+killall mosquitto
+```
+
+
 
 on second terminal window run subscriber code 
 
