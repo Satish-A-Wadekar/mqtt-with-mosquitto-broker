@@ -1,0 +1,4 @@
+paho-mqtt==1.6.1
+python-dotenv==0.21.1
+simple-websocket==0.9.0
+to-requirements.txt==1.3.0

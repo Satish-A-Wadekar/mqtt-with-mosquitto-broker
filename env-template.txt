@@ -1,0 +1,5 @@
+HOST="localhost"
+PORT="1883"
+USERNAME="satish"
+PASSWORD="abcd"
+TOPIC="SATISH"
