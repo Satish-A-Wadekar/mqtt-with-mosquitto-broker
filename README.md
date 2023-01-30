@@ -22,19 +22,19 @@ Mosquitto can be installed from the homebrew project
 
 Create virtual environment for your Python project
 
-```http
+```
   python3 -m venv your_env_name
 ```
  
 Activate the virtual environment
 
-```http
+```
   source your_env_name/bin/activate
 ```
  
 Install all dependencies 
 
-```http
+```
   python3 install -r requirements.txt
 ```
 
