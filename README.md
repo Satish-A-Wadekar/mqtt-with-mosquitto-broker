@@ -1,7 +1,7 @@
 
 # MQTT with Mosquitto broker
 
-This is a simple boilerplate where you can quickly configure Mosquitto broker and use it with MQTT protocols 
+This is a very quick & simple boilerplate where you can develop python app with MQTT protocols for Pub/Sub message exchange module with the help of Mosquitto broker (custome configuration)
 
 
 
